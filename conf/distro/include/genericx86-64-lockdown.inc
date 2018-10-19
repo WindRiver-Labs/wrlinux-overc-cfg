@@ -920,20 +920,20 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     debianutils:do_populate_sysroot:8249f0bd2d56005f4f96710723a8fffb \
     debianutils:do_prepare_recipe_sysroot:2bdacbe05f19f2ded1ad2bcac3095cef \
     debianutils:do_unpack:c6e1520ab272fb8901790787006bf022 \
-    dhcp:do_build:1be7604b1bbe94936246f5e295c68dc8 \
-    dhcp:do_compile:bde68a3be5fde24a3351048e43ff8554 \
-    dhcp:do_configure:8f09281b3529ffa34b2ef4a4bad9d7cb \
-    dhcp:do_fetch:fa3e6d1e22c656419734094b6b06035d \
-    dhcp:do_install:660e435d05dfde45e3a6b02ada7935f6 \
-    dhcp:do_package:0216d738c5248721ff7d648d029686b2 \
-    dhcp:do_package_qa:8d33352787d4e7f8cc6fecf3abee4f1f \
-    dhcp:do_package_write_rpm:21dd6e4bb658d91f228d3c96aacf7fe7 \
-    dhcp:do_packagedata:4a35c77bf8a252f12042f9f2d8ffded3 \
-    dhcp:do_patch:ccf58798e029d8fbce1c834b9b1fe3ec \
-    dhcp:do_populate_lic:d1e93c7e6f8462408054218076ac2a6b \
-    dhcp:do_populate_sysroot:fbd78079070cf58b3b15e76cf222db3e \
-    dhcp:do_prepare_recipe_sysroot:9b473771d44177db1cbc366116f6271b \
-    dhcp:do_unpack:a367266e5c34cbd6551c9146501788d6 \
+    dhcp:do_build:935c15fafcf70a9b5221442c73e5ca0b \
+    dhcp:do_compile:041d3000b80f0edaf3eb0f55f99c0fc0 \
+    dhcp:do_configure:4053e25821f3029c3d5c3711d43a6e1f \
+    dhcp:do_fetch:8791aab1663bdedd901b824f05c24e22 \
+    dhcp:do_install:73102d64390bfaeaa46bd16929f53efe \
+    dhcp:do_package:77b2b979c486df4291ab4bb1baad52cf \
+    dhcp:do_package_qa:b6705c755321c99b9efd4cdfa9ceba06 \
+    dhcp:do_package_write_rpm:5951274dd7e56a9b6399a66d1d8e8499 \
+    dhcp:do_packagedata:975d4995b662f1b130748f59a505c127 \
+    dhcp:do_patch:50ae853ebcd053e4ccbc0a7f86856284 \
+    dhcp:do_populate_lic:aecdc21b4738aabfe5598024b009c4e8 \
+    dhcp:do_populate_sysroot:936f066121b311dd510d25fe52008459 \
+    dhcp:do_prepare_recipe_sysroot:eb3d164a8ed650abc574ea5ab8f00edf \
+    dhcp:do_unpack:3722b58e2e7fe56570400896bc8ab998 \
     diffstat:do_build:97e55d7f759e07de0d87fbd575ba3a1c \
     diffstat:do_compile:b60b0abb3f3f815119f2d3b9ab3e417a \
     diffstat:do_compile_ptest_base:2ea8dd5f2d7cedb0ba177a2dbbbcb31d \
@@ -5184,7 +5184,7 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     nettle:do_populate_sysroot:0274a2894917ec4a9e83f1f9e3956981 \
     nettle:do_prepare_recipe_sysroot:136ccbd4d2103d78c378b358a1654d88 \
     nettle:do_unpack:fee1781bbc4b5790e29e5ab62e188bc2 \
-    network-manager-applet:do_build:83ef5b551f4e454b7520fb2077e0f479 \
+    network-manager-applet:do_build:cc211f8cea9e164073768542dbaa1fcb \
     network-manager-applet:do_compile:e5d36eda8088fa8eaaa5dacb70010dc7 \
     network-manager-applet:do_configure:af97c33ec56e6d2511cf737359052cdd \
     network-manager-applet:do_fetch:5fe85a532c1685cd3d05da12cc302832 \
@@ -5198,14 +5198,14 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     network-manager-applet:do_populate_sysroot:3c3e7d08c624c7cb2f50df48bb4206f7 \
     network-manager-applet:do_prepare_recipe_sysroot:2d7f9e8742778d10987d72c9fae1fe3a \
     network-manager-applet:do_unpack:7c47af0f1b267af07c25240daf7da8e6 \
-    networkmanager:do_build:0d09f395f46cfbcbd13c3051c6290855 \
+    networkmanager:do_build:b81f9258c78747c98d5a6f4e3cbf6bc8 \
     networkmanager:do_compile:d02426c98b8425f0ba63b412cb2a322a \
     networkmanager:do_configure:a1137277abcde0e2f11dd73ab7151d34 \
     networkmanager:do_fetch:d9348e553d2e72338ba552ca6bcd2e3f \
     networkmanager:do_install:0488a5fa4c291be64f229f512cadfd91 \
     networkmanager:do_package:7c8861f360ee81a138a16b0c74157042 \
-    networkmanager:do_package_qa:dbfafbe2b33ce810cfc0e6893b6a4eab \
-    networkmanager:do_package_write_rpm:80765afafe2a30390cd5e7b8521389be \
+    networkmanager:do_package_qa:9c53f9fe624906ded36c27704a4a9813 \
+    networkmanager:do_package_write_rpm:b07c4e165ea62982f3053e18ed3c6fcc \
     networkmanager:do_packagedata:5fa864c6948970cd5a054be0449f3134 \
     networkmanager:do_patch:5fc8dc5ccfc3dd61fce2d8a6228cc71e \
     networkmanager:do_populate_lic:c8b109e02329656dabaabf7f70560a88 \
@@ -8522,24 +8522,24 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     base-files:do_populate_sysroot:ed91151492eb9082311b59a601e92ae3 \
     base-files:do_prepare_recipe_sysroot:9655954f22f56fa58ac5c8fbc8a9495c \
     base-files:do_unpack:175d6b27af9790c6fda9d5d019ed0935 \
-    cube-builder:do_build:c1deb78426bba4ce0393ae9c2395cf35 \
+    cube-builder:do_build:994aa5963ba0d29feb6743a062ab0737 \
     cube-builder:do_compile:2e273c9b5d6d88750ac827a2abc0e551 \
     cube-builder:do_configure:77a5f6d78d8962f436b3b57d47e552b1 \
     cube-builder:do_fetch:292003c28984f8bfa4b3673baa921a5e \
-    cube-builder:do_image:166a67c52844356f3a3ed1e145f3e2ae \
-    cube-builder:do_image_complete:f24e1b21042cc4b2fb75ec6934c4ef05 \
-    cube-builder:do_image_qa:6cd6549e215476edb6f1c52828146885 \
-    cube-builder:do_image_tar:854487b674707d25bb9f09b1f99905f0 \
+    cube-builder:do_image:099a669a2b783ca19a9238c7027d629d \
+    cube-builder:do_image_complete:daaac39e4a6a61d16df8b68e91e4383b \
+    cube-builder:do_image_qa:c384eacfd6a4cf02c98e645beb23b9c6 \
+    cube-builder:do_image_tar:11c0fa6578d2891a5e02611e67b52e98 \
     cube-builder:do_install:add3dd8b06ad5bae64330056a87d2af2 \
     cube-builder:do_package:71d177a761371defb1e44e3db3085ba7 \
     cube-builder:do_packagedata:539faadb5d0097cd1d393a64b6ac9325 \
     cube-builder:do_patch:f67462131427d1ec6b250568a078541f \
     cube-builder:do_populate_lic:bbf4118b901f33be4caa76ca3c9a1d61 \
-    cube-builder:do_populate_lic_deploy:447d2fc3a04212317eb9593583791fcf \
+    cube-builder:do_populate_lic_deploy:c6f2b65bfe64f8f5d4b78e579fe74e18 \
     cube-builder:do_prepare_recipe_sysroot:484d991775b2bacf73159dd520ecbbd5 \
-    cube-builder:do_rootfs:cbc5c1f58fb6a44ee65da44b36952e34 \
+    cube-builder:do_rootfs:409bf3d09329d40a3588732dd087ef6d \
     cube-builder:do_unpack:bfcacbefc9c908f99cd8daab57368f55 \
-    cube-builder:do_write_qemuboot_conf:ce4ee81cf4a604665e8a20b498b657d6 \
+    cube-builder:do_write_qemuboot_conf:f6b6f0869f733bfb9aefbf7a0d4de473 \
     cube-builder-initramfs:do_build:1a4761d3a42d6365f94ab0a16e5416a8 \
     cube-builder-initramfs:do_compile:cade6772fe4dabe55323a65665195abc \
     cube-builder-initramfs:do_configure:008eee7fac87940b709a119c4e0d8203 \
@@ -8558,24 +8558,24 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     cube-builder-initramfs:do_rootfs:d63423a17233db10eb60b9d042276ed3 \
     cube-builder-initramfs:do_unpack:c65a0a8f46d091024227d8db434733f4 \
     cube-builder-initramfs:do_write_qemuboot_conf:e2b1727efc6f3b027509f9822c39e17d \
-    cube-desktop:do_build:6815db599e22c8b2c3907e3f8b9d6a16 \
+    cube-desktop:do_build:1ceb262645a10a9e6e441795a52ea920 \
     cube-desktop:do_compile:91993f59e46489b9dfd61e5c7e7e9fa4 \
     cube-desktop:do_configure:c00573cef1c5fffe347ea2246dc6c5f2 \
     cube-desktop:do_fetch:12b7aeabe5b1e25b4bf665db7a06c21c \
-    cube-desktop:do_image:c09c15de01be6634ca5bd828358bda44 \
-    cube-desktop:do_image_complete:4ebfb27d197fd101cb28b22f98684fc3 \
-    cube-desktop:do_image_qa:0e71ee67e5563512080fe57132f0f4b3 \
-    cube-desktop:do_image_tar:56ae821f04735581677406a8af2a0bbe \
+    cube-desktop:do_image:4b6729fc9cff31bfb5a7ff40c4febfc4 \
+    cube-desktop:do_image_complete:ac9d904bfa4c8681116741851c2adea5 \
+    cube-desktop:do_image_qa:732bc828103615cbff640a2cd6b70bb3 \
+    cube-desktop:do_image_tar:0e3e0fe4c6ddccfe127fefeca962c247 \
     cube-desktop:do_install:9bdae1a5cdbe1b614e1b9542b0e4802e \
     cube-desktop:do_package:486e0b0fca4d214df66071e16c883b30 \
     cube-desktop:do_packagedata:4b8d128dc52fc6e6458bce7904238f93 \
     cube-desktop:do_patch:893441c2d3e494ff99faf8380043597f \
     cube-desktop:do_populate_lic:6622c0a2d7c6716c6bfa00d3b4f87b20 \
-    cube-desktop:do_populate_lic_deploy:e8e046445357602fc9c60b82ba59e890 \
+    cube-desktop:do_populate_lic_deploy:891f6f3be69916255528aba1b72cc381 \
     cube-desktop:do_prepare_recipe_sysroot:e2e132aaa603bd70d5376570292f0d31 \
-    cube-desktop:do_rootfs:311f653dbe4ef5d4c493b989d0a164df \
+    cube-desktop:do_rootfs:8b5e400d5e6543c3d17598727f97589a \
     cube-desktop:do_unpack:f309d63eeff540f45e8a688b5b7dec6c \
-    cube-desktop:do_write_qemuboot_conf:20754a430a2fc157c2b6c6954485b9e4 \
+    cube-desktop:do_write_qemuboot_conf:ffcb5f332b48033f9d612e7254a1aaa9 \
     cube-dom0:do_build:45551431b66f2a79615664f48bee8ea9 \
     cube-dom0:do_compile:5070556226f78309e9f5c5d045372928 \
     cube-dom0:do_configure:b3371a65fc03075f783f5bb5c4ae3ff7 \
@@ -8594,24 +8594,24 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     cube-dom0:do_rootfs:194efd23a7a57c1ec87d2334b099e7e4 \
     cube-dom0:do_unpack:0364c24d47e436d06a6ff357dcee82ae \
     cube-dom0:do_write_qemuboot_conf:7f4a7663d1e82d44b7aea1a54b199ee7 \
-    cube-essential:do_build:6ce62159a0c8eb52336f4cf050e2a4e5 \
+    cube-essential:do_build:37315023c73e882b649788823f6b1b4e \
     cube-essential:do_compile:0342c338e4c78a1864d80ecd2e2fec26 \
     cube-essential:do_configure:9a2176251430eff8aa064fee165c89b8 \
     cube-essential:do_fetch:292003c28984f8bfa4b3673baa921a5e \
-    cube-essential:do_image:5496a2c4e8750a3131bb8c35194e776d \
-    cube-essential:do_image_complete:031fdfd10f8f133208af415afd0a152a \
-    cube-essential:do_image_qa:471fb68dbf69887d2989eb6d6015d62a \
-    cube-essential:do_image_tar:a4f72e70ac4547efec04b0c6cf1a16cb \
+    cube-essential:do_image:c3e270be5669294e83d398c265448aeb \
+    cube-essential:do_image_complete:a0d09b4bd7610017d25048bd757a979c \
+    cube-essential:do_image_qa:7cbfe177a32f19fc35842153466c2108 \
+    cube-essential:do_image_tar:8ba0d783a1abbe7a33b512032ec13e71 \
     cube-essential:do_install:9eaf1624f940fc903c82205dcd42f770 \
     cube-essential:do_package:f42ea6cbabe6f78e19d72c3fb44a4c5b \
     cube-essential:do_packagedata:64ec1d37c182fb1ffb037da0d02701f2 \
     cube-essential:do_patch:f67462131427d1ec6b250568a078541f \
     cube-essential:do_populate_lic:6b0fbf5ad158a2abd01ad5cd6ae2e370 \
-    cube-essential:do_populate_lic_deploy:3c713dfd329e009a822d0a9baa3765ea \
+    cube-essential:do_populate_lic_deploy:2914fa97695e98a0382eac38481dbb79 \
     cube-essential:do_prepare_recipe_sysroot:484d991775b2bacf73159dd520ecbbd5 \
-    cube-essential:do_rootfs:3c8538c4db1179acadbfa91d1946e273 \
+    cube-essential:do_rootfs:1d3e31ec6f4a530d0382af0e265af433 \
     cube-essential:do_unpack:bfcacbefc9c908f99cd8daab57368f55 \
-    cube-essential:do_write_qemuboot_conf:1d16b4120ae5a869d958678f92dcf3aa \
+    cube-essential:do_write_qemuboot_conf:2e3e62a275b3f5359342c99c3b2614c3 \
     cube-server:do_build:ebed8b012fc85172f17670d60ba4a452 \
     cube-server:do_compile:39cbddfa4ed6683c428c5b752098b0d7 \
     cube-server:do_configure:4c296589529e7bb011849c62adab2609 \
@@ -8771,10 +8771,10 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     opkg-arch-config:do_populate_sysroot:f51584f0334a0ec1391522551530be3f \
     opkg-arch-config:do_prepare_recipe_sysroot:66bea0f4572cc45eceb16dc69fff32ba \
     opkg-arch-config:do_unpack:6bcf18b6fca9499e039f24d52286aa7c \
-    packagegroup-builder:do_build:d7d4efe002b9e43801ad55f97cdcdb11 \
+    packagegroup-builder:do_build:d741e1f1530362782f8e41524025c41f \
     packagegroup-builder:do_package:d56344adec0ac9491a4b7b2f2d441edf \
-    packagegroup-builder:do_package_qa:ff639883d69896abd2ed8bd2e7cdb7d9 \
-    packagegroup-builder:do_package_write_rpm:e3028bebfbc234ccc39b45aeb4526204 \
+    packagegroup-builder:do_package_qa:718f91451e63bfdc535a360a692427d0 \
+    packagegroup-builder:do_package_write_rpm:a702f46fcb4c370bad9bfccbf0256952 \
     packagegroup-builder:do_packagedata:2c08411fe07a9040ab2d3f262adea3cb \
     packagegroup-builder:do_populate_lic:8312b60ba8dae74a1e8cac7d10dc25c1 \
     packagegroup-core-boot:do_build:1051cdeabc6314e409a07afd7498c522 \
@@ -8795,10 +8795,10 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     packagegroup-dom0:do_package_write_rpm:7b75fca10b4c85b403c2109dc0c8f316 \
     packagegroup-dom0:do_packagedata:ceb10f8626d68a707df9dd062103aeba \
     packagegroup-dom0:do_populate_lic:ef5fb7235c12076dd31f98782212d4af \
-    packagegroup-essential:do_build:001df5b98977efb84088f0f7c8959707 \
+    packagegroup-essential:do_build:9768d6776063d54bcf09be4ecc0d926b \
     packagegroup-essential:do_package:8d50accd29d34584b86d6f0ff3ec9b6c \
-    packagegroup-essential:do_package_qa:77e4682e969edbcb0bf49bd4b8a027b8 \
-    packagegroup-essential:do_package_write_rpm:081fd65591099482d0cd474a2615e424 \
+    packagegroup-essential:do_package_qa:a6e3a222a2be237c1f1e06c0c0a3942e \
+    packagegroup-essential:do_package_write_rpm:c796acdaeb6bce71e07440b51f7823e9 \
     packagegroup-essential:do_packagedata:a428975899b0834ea79b15bacf970087 \
     packagegroup-essential:do_populate_lic:ef5fb7235c12076dd31f98782212d4af \
     pointercal-xinput:do_build:e19cdda7e1c3b8131a58d5024f5e8937 \
