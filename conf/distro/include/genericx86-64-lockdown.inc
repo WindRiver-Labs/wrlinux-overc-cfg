@@ -8630,24 +8630,24 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     cube-server:do_rootfs:9d22e37afd6e1bdc736971f1f2f6235f \
     cube-server:do_unpack:f309d63eeff540f45e8a688b5b7dec6c \
     cube-server:do_write_qemuboot_conf:bab29314986afcb6640b93652b8ec42f \
-    cube-vrf:do_build:b202352418daae3e82e816a163f75bec \
+    cube-vrf:do_build:9436db2adee6547b0153a0d07190ee51 \
     cube-vrf:do_compile:62c1f64837a8b9fadd708455bcad2369 \
     cube-vrf:do_configure:1ade2a560cf78b5eb10b70a0dc15d8c8 \
     cube-vrf:do_fetch:01e2129f9b1c12d80faaa83cf3670946 \
-    cube-vrf:do_image:465a3273e8c738c099198b681afcdac2 \
-    cube-vrf:do_image_complete:736978859472ed6a65856668f288174d \
-    cube-vrf:do_image_qa:3edf27ee3f53b2ac0d9efb8d3095967e \
-    cube-vrf:do_image_tar:3fa675a6186fb4d91e586d1795e9bef6 \
+    cube-vrf:do_image:62a8a4229207ea4484dc7b38cea9ce57 \
+    cube-vrf:do_image_complete:4a052b3505154e587cd5b3d00a7d46b7 \
+    cube-vrf:do_image_qa:bc1afa70b0b57d8c196bd2eb3cf375be \
+    cube-vrf:do_image_tar:f7f65dd9b3043832e698bbba6f7d95c8 \
     cube-vrf:do_install:c2d6bca89eb4a0d00c59d097452760a2 \
     cube-vrf:do_package:e21921e9cee8b7b7f8c3977df6a78050 \
     cube-vrf:do_packagedata:009a55a9d486c6f1069a6f94ac0c0163 \
     cube-vrf:do_patch:92b87da271a92476ec467e376d83ae1f \
     cube-vrf:do_populate_lic:fe5c35214df59eee17d5f62b03fa203f \
-    cube-vrf:do_populate_lic_deploy:45c31193a49b3b55ffc2636c9e6d742f \
+    cube-vrf:do_populate_lic_deploy:ff7f755c1108754094dd2aee44e91e9b \
     cube-vrf:do_prepare_recipe_sysroot:1a492aab81359d1bc36893d55f6e03c9 \
-    cube-vrf:do_rootfs:da5ff1c0be786ac003e0775e37156fad \
+    cube-vrf:do_rootfs:e0c7f8d349a5513e04d5ddcb8b162ca9 \
     cube-vrf:do_unpack:d20ae268b139c2b92e41c06f30104d93 \
-    cube-vrf:do_write_qemuboot_conf:9b957619d6e9b6ddf044849ef5ae0e3a \
+    cube-vrf:do_write_qemuboot_conf:481c084064ecfba291e145aa8a21f3a3 \
     depmodwrapper-cross:do_build:23ef091e5adf7944665209b246460c00 \
     depmodwrapper-cross:do_compile:9e56f5be35a4c57b1cf5b1bd6445468b \
     depmodwrapper-cross:do_configure:01fbabf82f3060748f4f244275835156 \
@@ -8740,23 +8740,23 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     machine-host:do_populate_sysroot:536eb35a5d7be618deddcd1cd6e1eec7 \
     machine-host:do_prepare_recipe_sysroot:bf094c41894421df9517c79d3f854ce7 \
     machine-host:do_unpack:e58ca15faaa47d332cef46f6f76fef62 \
-    openvswitch:do_build:0cdcb2c39cdd54b64230ed6b4c634766 \
-    openvswitch:do_compile:2b3ce296ae37c3c1633017f212fb7237 \
-    openvswitch:do_compile_ptest_base:709103d133c8a0a2ff308398648b7fd4 \
-    openvswitch:do_configure:ff45024ed7839408197bc74f8d623efb \
-    openvswitch:do_configure_ptest_base:89acf7c4fa499a0e95afdcce694902d4 \
-    openvswitch:do_fetch:8b16be94a1f69f93b6e9468ab5a7f1d4 \
-    openvswitch:do_install:ccc1e4c0875ab31f881d2557f40caaf3 \
-    openvswitch:do_install_ptest_base:172c8fcc57a74ff5e4261a19513b1924 \
-    openvswitch:do_package:72df2176a29ee3d552c8b3bbcad8048f \
-    openvswitch:do_package_qa:508022b00d34ede09c39b9b8efc1d78a \
-    openvswitch:do_package_write_rpm:d9ef7a29f1de77a9350f26e7512387aa \
-    openvswitch:do_packagedata:a8d9710e904b389b1769f17f11538771 \
-    openvswitch:do_patch:5303d1b79548da2937e7445ade40a93a \
-    openvswitch:do_populate_lic:e4dc80c6e08933cfb7b3d2797f15f76f \
-    openvswitch:do_populate_sysroot:6dc0ae3803557e3d34b14111b0d0555d \
-    openvswitch:do_prepare_recipe_sysroot:178b11aa2fdd50d2d41b0d7b782ca03b \
-    openvswitch:do_unpack:5e5ec72dd0531d1884caac91c2eddf7b \
+    openvswitch:do_build:fac36bfca7ab24591769f6628c866055 \
+    openvswitch:do_compile:32f0ff6d29470f3e536022e8052775a8 \
+    openvswitch:do_compile_ptest_base:a8c3c2ab7468dbf4575eef9cac1d7133 \
+    openvswitch:do_configure:9ac6d81476452b0d7e0ccfaf2cf63981 \
+    openvswitch:do_configure_ptest_base:0855871ced31ad4140a0e92a3c297613 \
+    openvswitch:do_fetch:9218c57a63f2802e9bb3a48c1dbc30b1 \
+    openvswitch:do_install:6b84faa126829d725d5c8159c1a52c22 \
+    openvswitch:do_install_ptest_base:0cebb51c672c8d05e3af0b5d2af38435 \
+    openvswitch:do_package:cf1da7c5d1306d0310631d4d6eb5da01 \
+    openvswitch:do_package_qa:6b633f2c27117fa5b221579501009cd0 \
+    openvswitch:do_package_write_rpm:2b58caa731f8577c62e834e9d03b5116 \
+    openvswitch:do_packagedata:b70b718a7dd18f85ea5c3841cb76ed59 \
+    openvswitch:do_patch:072548e2c4efd521a78292ffff52e363 \
+    openvswitch:do_populate_lic:67ae18f9d31100193c2e482e39439621 \
+    openvswitch:do_populate_sysroot:f29179c9b6318cb7f11a36f163b08e11 \
+    openvswitch:do_prepare_recipe_sysroot:9bd2445c656a6bd14e65aac1f50a1c6c \
+    openvswitch:do_unpack:97b03122171c399c10c258bd2d30c7ee \
     opkg-arch-config:do_build:ac4621d419c2420f7e323be0b5016e57 \
     opkg-arch-config:do_compile:fd56cba5fcf32c22217ad1d2e8119f2f \
     opkg-arch-config:do_configure:90bf90bf0affc87588c9fce70170ac35 \
