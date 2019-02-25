@@ -8540,20 +8540,20 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     cube-builder:do_rootfs:cd8b965b1305981d9015d95ef8d7ac53 \
     cube-builder:do_unpack:bfcacbefc9c908f99cd8daab57368f55 \
     cube-builder:do_write_qemuboot_conf:71992aabaa0ad323655183032ba2c292 \
-    cube-builder-initramfs:do_build:79c66a4ea27fe5b79ab56c4bbb51385d \
+    cube-builder-initramfs:do_build:30882ef2620ec802cb567b94b637b353 \
     cube-builder-initramfs:do_compile:87427a6ad2759601d5de334e2ce1ac99 \
     cube-builder-initramfs:do_configure:a23f8f3e815647c3bd2a03910355e0e8 \
     cube-builder-initramfs:do_fetch:fde7cd14d2cc0f8fc6566a10495a550d \
     cube-builder-initramfs:do_image:dda579755331e00df36774550e15732b \
-    cube-builder-initramfs:do_image_complete:28640628bbafe4d25c99758c13c4d7bc \
-    cube-builder-initramfs:do_image_cpio:f17b22d1e33c7bcd89687e89414da5e5 \
+    cube-builder-initramfs:do_image_complete:a3b170fa18a9d7532c1e418e5ee251b5 \
+    cube-builder-initramfs:do_image_cpio:d4f1b35a7a1583295cec0089b6fe7a11 \
     cube-builder-initramfs:do_image_qa:2936eb13551bd98b05f4670953765edc \
     cube-builder-initramfs:do_install:65b6efcbad58e71e1435587a727add5d \
     cube-builder-initramfs:do_package:03dc620245bd089803d28cee8d1b22eb \
     cube-builder-initramfs:do_packagedata:a799589a0db24c26d411de6237d2c2ed \
     cube-builder-initramfs:do_patch:99908b50593ddc88019b0b94a8eb539b \
     cube-builder-initramfs:do_populate_lic:2a89e97383423141d11bbb662aa0b4ca \
-    cube-builder-initramfs:do_populate_lic_deploy:0f8f3917d18dfc25ebe225ab60eb6181 \
+    cube-builder-initramfs:do_populate_lic_deploy:386cbfec2815d6d7cd09251628158ff9 \
     cube-builder-initramfs:do_prepare_recipe_sysroot:6c8d8c7cdc29b9813699cc6c41055490 \
     cube-builder-initramfs:do_rootfs:2a476fbba224450d5f47c972cf9e7dd1 \
     cube-builder-initramfs:do_unpack:c65a0a8f46d091024227d8db434733f4 \
@@ -9049,16 +9049,6 @@ SIGGEN_LOCKEDSIGS_t-x86-64 = "\
     coreutils-native:do_populate_sysroot:a43579e193a9d52073d3e3ed294fad6a \
     coreutils-native:do_prepare_recipe_sysroot:659bce56658445ff5ce3cc13c1e5a757 \
     coreutils-native:do_unpack:93f649f32c132a3c6f39d7aa6988593e \
-    cpio-native:do_build:9e846a1dd7b08767742e8bbe552beeae \
-    cpio-native:do_compile:ec6d106713b6026b5a5e9fa9188b196a \
-    cpio-native:do_configure:b249d7be3a9401704c959e1d435a2142 \
-    cpio-native:do_fetch:d86b3e8183ba34b5a6ce1ad49ccd993a \
-    cpio-native:do_install:9d1f880c4c530c2169ff262800883380 \
-    cpio-native:do_patch:0e2309c26c5891795889097722b733e3 \
-    cpio-native:do_populate_lic:5bf80853c1ed9b90792a7a3cb2f8d4f8 \
-    cpio-native:do_populate_sysroot:6345c1646f21c6cdc3cf6b993b4cc069 \
-    cpio-native:do_prepare_recipe_sysroot:407fe65fadf6a0c69d13ad8f38e7eb75 \
-    cpio-native:do_unpack:bf8a082c8975b0e29b02bd79654e1b09 \
     cracklib-native:do_build:dcddea47e3669cf1967719e2d1c2cf2e \
     cracklib-native:do_compile:61fdaf8cd0198916a9c7a8cd6b7d9602 \
     cracklib-native:do_configure:ab97940e85f6551d7aa46d21a31e2259 \
