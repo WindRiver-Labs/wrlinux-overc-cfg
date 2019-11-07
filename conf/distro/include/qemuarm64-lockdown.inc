@@ -748,6 +748,20 @@ SIGGEN_LOCKEDSIGS_t-aarch64 = "\
     dhcp:do_populate_sysroot:13a90c9e0b1176501b8f2e0089f0122ff49c55aeedebaf61ea2ff0910185acc1 \
     dhcp:do_prepare_recipe_sysroot:d460764a27251349d27c1dda9cc87c0391c3475728a575cdbb1357114d289287 \
     dhcp:do_unpack:b0e855ebcce11cf8cc6355ccfb3aa3185014b5673e3fb974be6b3d1a97775505 \
+    dialog:do_build:2cccb5abcebd528afd8d273393c8928f12f7f7bdc7f0379e87b1679f00e7beb5 \
+    dialog:do_compile:418d56538a7d3c0582159e3cde9cbb27a0dad00de08c6eaecb269663576945db \
+    dialog:do_configure:918d688af57202fb3c83c3a3e80dd5328821568b0e6ad51ae4184dd4ea29e0e9 \
+    dialog:do_fetch:ca874efb5907694db7c426e9f8c5cf0f8da0bf970e020ad012006f8108b623c7 \
+    dialog:do_install:e5f0cd0d7f020d399798d2b037e1cfa90ff683840b93e41ed43586be126c3f84 \
+    dialog:do_package:497d3aa34c5207592ff3598ef1e07f5515a8608b5f925c7f6594957b4ccb6832 \
+    dialog:do_package_qa:068be08e42d01fac4cef95996fc013eb5a0ab48ed9576c01a381230369eb35d5 \
+    dialog:do_package_write_rpm:24bc929fe94c4c60111026963152a33fbce64919c41007b751ea2d8250896f39 \
+    dialog:do_packagedata:f2756c784707b4f65da4218d17c9b5c9dafd7a6a0bd5b308a3806597d1358dee \
+    dialog:do_patch:7f174fc7e7bd8d9de7611889d49ba6efc2dbfdafdf7a8c501baa38f5e344cf5d \
+    dialog:do_populate_lic:d3945163726795792ecb578712282e2547518c4c0fdf84ad59a42949e7bc367d \
+    dialog:do_populate_sysroot:e5229d2dd3169850849b904d15809a9d59a29556fa41521196e91369de1fdd29 \
+    dialog:do_prepare_recipe_sysroot:68e1e9c941b498c4cc6964c15a6945d68cf1096fd2d2e006965afda84e404330 \
+    dialog:do_unpack:9ba2bb1aff87d51f1fa52320ffefac2018d7e35981b46115e9b6e59e6c3a73e7 \
     diffstat:do_build:1e0b2ef8e86baa18a8688e12ff8f95099934fb5c58914328b8d600aa775ecf42 \
     diffstat:do_compile:22d93a0ae136fe24af1e14ac98423ccaa5a1bce54eb8ff6939abc6e401c6da23 \
     diffstat:do_compile_ptest_base:668294bc012b5c7facbc20f87e0500fa5a803e40c70ccb697fec483b125360c3 \
@@ -881,6 +895,20 @@ SIGGEN_LOCKEDSIGS_t-aarch64 = "\
     dpkg:do_populate_sysroot:dab5322c751c597f1da31e65ceddf28689523373c220917ab463dcee12d8cc8a \
     dpkg:do_prepare_recipe_sysroot:4d7a7c06fbb89683d697023a57bd4ae612206796b376327297fa09f752c868bf \
     dpkg:do_unpack:bac22efd9a655518c645c3761eda21d551a92acf594277226aba3eeb6b3799e2 \
+    dropbear:do_build:b2c04fb68ee09de2cf76bfe82f0da3652dc2800718c9731b1ab1f6e5be914910 \
+    dropbear:do_compile:db14080eaaf2b2d8342a752105f38593afd1289e4a937cad98ee79f38df5e7ea \
+    dropbear:do_configure:a40bc0a08c8b090911c37ab1feba94eaf22f5fb1eb7fb7dc3c3bf48ba92359be \
+    dropbear:do_fetch:98cb127d5a80f0f9027aebe7266717151986f7f3e9ce421920286882bef76d84 \
+    dropbear:do_install:832a04e495ebbe32b8e379aad9eaf3488f7a96f3c302e2d49e3fbe2030475aa6 \
+    dropbear:do_package:17ba2508553b6edf0d45216743b86447d15db290745dad295995387eca9d4575 \
+    dropbear:do_package_qa:9aa07a9b99e9e0177319dce8d843fb01b0a34945d3b6d0334b787e8e004e5a82 \
+    dropbear:do_package_write_rpm:cba21a801e98c50ad692a5e123562598fc3187bc0bf391a0a6a6eed47f6e0ed1 \
+    dropbear:do_packagedata:c2ccce0dc47c83843f2c5053fb20fb8d6bb55809de38e9ae612667264eb018f3 \
+    dropbear:do_patch:edb1023912d720161adc3d15801f203e0781269895ee05394cac21e8721f28b5 \
+    dropbear:do_populate_lic:18f655655e5c444e47f3c40402a2b96fecf0ab4aedd912097f166367a0515c64 \
+    dropbear:do_populate_sysroot:614a3eb0cdd238f4058b8859bab4952cfde1f99993313013753955d8b59a2bc3 \
+    dropbear:do_prepare_recipe_sysroot:e0d6f33b59486f241e07df0c6327d86ff74afca793b32c0cc1ae8088ffb5136b \
+    dropbear:do_unpack:31cd157602d307fdd556e1c55f0a91f7375545bae233bd5eaf5e370879736e27 \
     dtach:do_build:23e5ffafa03864f5b83aece2241a048b0b70811c0b24fac3756610f3f2213f56 \
     dtach:do_compile:8985b02d14d54ced0bc1c74ca17e5439dde15277ff2a74a8e2efa68df3877777 \
     dtach:do_configure:6c7f386bdf1bb0f994468aa66362095ad81e2da2be77c4fbff35fdc4cf23099e \
@@ -1835,6 +1863,20 @@ SIGGEN_LOCKEDSIGS_t-aarch64 = "\
     grpc-go:do_populate_sysroot:fb3f47819c9616c5d2f5dede750ccface998dfda14a05ec1e335e7510de4c88c \
     grpc-go:do_prepare_recipe_sysroot:bb7af8bdb954f55bd52a9dc9ca4d13f43e4e448a6fc0166775cd6054ec8432a1 \
     grpc-go:do_unpack:6d0df1255859531c208f98cf10f066bc9bcdf47333289955b436ff60ceac0b42 \
+    grub:do_build:983d8b2684f8545f9257610e82dda8d81b97c2dfa0f915da27f78de5da074c54 \
+    grub:do_compile:e9f9e212ba5023d38e784c381cc4ac09f1976e69212930fadef4ea7983857aff \
+    grub:do_configure:fbde302cb6ddc903d2909cffd649eb33bc1f607e7501f3212cf4178982211faf \
+    grub:do_fetch:581582a2cad550e13862c962bcbac83d2105782245d1373865e94e9ee5c6b11e \
+    grub:do_install:ac3825c64006b67fbbbd43e3c36a8c3e032996478ee19602f3333f9afa24fdef \
+    grub:do_package:745fcbe6a31f1ea1ce2c1823be862d6b319f87f85f8dffcdf7f3a6f8d3ace81a \
+    grub:do_package_qa:546842d2533700d15841cfbd55f6f389d21cab9183e7871a827a393c3fa118ec \
+    grub:do_package_write_rpm:0645b05938a33c288153e12dc7758838955b564b7f45f583093769e8241c1431 \
+    grub:do_packagedata:58e77954ce47e6003dcd3c7868162876f6e629e59771d441d13489854fa7715c \
+    grub:do_patch:91ccc5d4afacd0d85f6da2235bbe685ba9a60ddcd659ddcb6291a428eb6e7ff1 \
+    grub:do_populate_lic:cc07a62c69deba6b0760f699ed08c95ec78373ace904a3748b8efba98717d78f \
+    grub:do_populate_sysroot:fc56c24104182ae38d9ff740a56dfc9f5ecf853e10347e69bac20d411873160f \
+    grub:do_prepare_recipe_sysroot:6ecea4a21cc2ee954173aa9a7d977e8aa0136c2956a663965aee4bc721f41128 \
+    grub:do_unpack:b78f00eec607c47586b07e46c07b2e414876dbb4d151cfa2529a6df2c67a83c0 \
     gtk+:do_build:8f5667255f07ea705e50ab4218bec6ca9fe9603aec8583e2f6be159f912b5b40 \
     gtk+:do_compile:226a88549469695531c86f3601e3b75cbfbaf88b6e1f811ceae565cdfa5fa6d6 \
     gtk+:do_configure:a1dcdd8b627e5f679d42e48607ee5a0b857dfee7943cd51f2951dde8ffe2096c \
@@ -7940,6 +7982,25 @@ SIGGEN_LOCKEDSIGS_t-qemuarm64 = "\
     cube-essential:do_rootfs:18c3dd6fcfa4440254ddb65f4796473e090b7739e8b64acfb1eb6df424a10209 \
     cube-essential:do_unpack:1da03993fe90fc7bdfaea3b79a9051dea691e8f0eae4478dc2ca8786cf9a704b \
     cube-essential:do_write_qemuboot_conf:16b9a8ecdb2fb3819a63c544f9e312889e8ef5b914e166e264da0d05f23ff73e \
+    cube-install:do_build:9ea32ce1ec19c85b2d9a37a488fd093d5ec7f294ac308f48d8f3720d202a7db4 \
+    cube-install:do_compile:e1d88e4b00bc4f0f0de1b3cf8f29507da658e42144dd6665182ec786c51232c0 \
+    cube-install:do_configure:3f2ff77b1f7b7585c4cd17ca76c2d2a3810666d0926bb5a4449219c08a652078 \
+    cube-install:do_fetch:ff68520619f4b40db5e35e6d71eb8c80c0a691fca11a9039ac4b4fc94c173af3 \
+    cube-install:do_image:ea3165cd07650ef4b52428e34fe4a78e71ecbba28d4ee955417ae8e35e2bcb67 \
+    cube-install:do_image_complete:b72bc395c205962164547f1187987fee57376f6151b8be6c6a6d0e5f3ae18e2d \
+    cube-install:do_image_ext4:4c7c5bfc7b7aba1e391af0b64b949f41b0840095165af34a5be778f984dc88b8 \
+    cube-install:do_image_qa:38d16fa2250467617a37d5ab3638e28cc431529b4ca0f2a7254fbd22f6912f39 \
+    cube-install:do_image_tar:1ca421f6060b0c2b9e3842ab46c994a2191dab29ea8edc3bbea9b83d5093d55e \
+    cube-install:do_install:87c6d93218a25e4bda24972d4926e8bde27b15debf1fda2b96c822b61d13ed8a \
+    cube-install:do_package:3d6beaadd9e2ab76dfc74e6bde4334fa973d83eb81e06cd6a23d5bce4900b07f \
+    cube-install:do_packagedata:68e3e90102ce5a9562ea60a7275a1397c3f251fb03fa3cc043e738fedfc51318 \
+    cube-install:do_patch:b4dc31c9c1d05ae4913f1e4b529c87d372a90f4509e18a5f7ca6cabd91bf0ca3 \
+    cube-install:do_populate_lic:c92210f5e5e26a5ba686d9396504e9b50114f37cf4724e614847d76f95551513 \
+    cube-install:do_populate_lic_deploy:38fe5150bd4092897669c7da2d61bb70233a59b0b8c5b073f2fa7a1ad782b997 \
+    cube-install:do_prepare_recipe_sysroot:4018a7294612a0f5f9f53403a98fae4dc54debe7c660333ae511f32b3284f706 \
+    cube-install:do_rootfs:8c74b2eefc0f6d0e5266c8537ed31acb18ff3f9e40195ed61e02c75673148abc \
+    cube-install:do_unpack:d942348bba5fb45534f26d1c6d6c033ad2cae1209e567d587fd11e2e59c2cb83 \
+    cube-install:do_write_qemuboot_conf:8b9144c8c3a467c27a1563b7e4fd8ad82b5f216b958ce3384156d4439bc5916a \
     cube-server:do_build:047290cae75ff8b9e830353685f9e26482964e0bdeda6292ed66101aa3fc6985 \
     cube-server:do_compile:f3a01c03db3be8522b1a1d88d644cfe072ce25d505eba7c7c5c1f656723871d3 \
     cube-server:do_configure:075fbf78f8acd9d178a0728dbf54363831f7ca542a4f0d9497b825587477093d \
@@ -8190,6 +8251,14 @@ SIGGEN_LOCKEDSIGS_t-qemuarm64 = "\
     xserver-xf86-config:do_unpack:1b984f28e8cd3d90f93296d0043a9a29a8dde80ec27a8f2fa265c7290bf1922c \
     "
 SIGGEN_LOCKEDSIGS_t-x86-64 = "\
+    acl-native:do_compile:29f4657a069ced02e3299add4a8dc6e8e6f76939356f7b7863ff248da2c20df2 \
+    acl-native:do_configure:1b90de1c6fbae8b0a95bf2b175fbfd92fbb3a59e0befc8e8b159ec4a7f4ebc1b \
+    acl-native:do_fetch:6bf8073563789c8263c9706e7896eaeae21837a9f172d59bcc8693b533a719bd \
+    acl-native:do_install:8a5a81fd44749d862354005daf561fab3e68a93161ccd8328c8530a54f173b8a \
+    acl-native:do_patch:0366fd63e18d8ded57df05fe33e8191c902c1569f3fc00d408648ace179fa9b8 \
+    acl-native:do_populate_sysroot:2064a94c4e5fd90aefc4608ce9c543a3a9232dbb1e1b9e7a21cd01e42ac1346b \
+    acl-native:do_prepare_recipe_sysroot:43dfb8ce8425f601523344f8321d4c08c479935ba503a93337db7b9a0dc3fbac \
+    acl-native:do_unpack:df751b98b712a35e78386ec3e2a4865d2a952f39527abc1406216f64071fd6bc \
     alsa-lib-native:do_build:b95a6b11fcd03a4064886e427c8af63d68492e0834357f80b4503f23600513e3 \
     alsa-lib-native:do_compile:b9664241a940c82d9e373c195e591d0f15e9afd6e516729ee85de78113dc7d94 \
     alsa-lib-native:do_configure:0da4c6a24cf4ff41fae8abf24b127ac6efc9c4590c7602c591dc0702b6acce21 \
@@ -8313,6 +8382,16 @@ SIGGEN_LOCKEDSIGS_t-x86-64 = "\
     bjam-native:do_populate_sysroot:4d39cd3f7de29146c12ea0f3bd3bad0cb910794311d008600157100aa37366ae \
     bjam-native:do_prepare_recipe_sysroot:402a19143d82c19f9888c527cb46dcfafc2dbec3e0c057313c771ac105cf8115 \
     bjam-native:do_unpack:d2379e04874d626159ee7d2cc4cccce1eb92f3bf0489421ea479dffc7564b3bf \
+    btrfs-tools-native:do_build:f8beec8411f7aa35bde48897e39767899f3befa8ff0e91e8807f66c78f54bd2f \
+    btrfs-tools-native:do_compile:a3d7b41b150a3435fddb4f866d16f1bc879164d669d6059e91899bd3b76037de \
+    btrfs-tools-native:do_configure:c15742a7361df7cbbe7fc31c13ffa4d8ba10d5c2360e5029c9d4a1d636d871b2 \
+    btrfs-tools-native:do_fetch:9beb72342f186a5f651522b3fb2ea7bd795aa694d33a1d83b5b2d4562185a79a \
+    btrfs-tools-native:do_install:bbe0070df376faaf999089af85a8b2596b2fb262c2d0e55ab9568bbc5a863637 \
+    btrfs-tools-native:do_patch:1705e2d497f44e2fbbbce9ab765e3cfd33ceb1d480fedc317a35de49b24a6be0 \
+    btrfs-tools-native:do_populate_lic:1f6df23eaa8bfb9b0667baae3396c188c8daacea7e20fea170b7c434bd2d254d \
+    btrfs-tools-native:do_populate_sysroot:5c600aeca6216dce1b12a991149a686c7fddbabeeeae7373172278452662781e \
+    btrfs-tools-native:do_prepare_recipe_sysroot:cb1820f9bb1164c0f3e693c54d232d39a6a366b625d9c8a3a93ba4c8060ac79b \
+    btrfs-tools-native:do_unpack:8952f07816cb6f0b8dc9cb8b3fc02b15302d9a38b3a3e96ed92fc7df25f12367 \
     bzip2-native:do_build:7e0d4ffcc836170e726679e90882eab2661faaf0fc36854c217667aefd68ae2e \
     bzip2-native:do_compile:b47ae8761e0c35794b03b9c16c008f095ff7f13e86602ea9bd3fb134547bd2c1 \
     bzip2-native:do_configure:b2bf03e54236da44aa0af5eeb836f488d91e04ecb4f271af2a50aaebc9180aca \
