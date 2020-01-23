@@ -1957,20 +1957,20 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     go-glog:do_populate_sysroot:bcc329b7d8b6269dc1a4102fb04aacbe \
     go-glog:do_prepare_recipe_sysroot:08c50027a3e33a462efadcf02cd4b567 \
     go-glog:do_unpack:f9348c142259f0a956315d3d0426a0de \
-    go-gpgme:do_build:a0c3cd9f88eeb0e764acf5db075023b9 \
-    go-gpgme:do_compile:787b320661663dcaa78621035ea1e611 \
-    go-gpgme:do_configure:3adb8ef6fc2d13c681ed3aa3aee5f4e1 \
-    go-gpgme:do_fetch:acdacecf46d5e661b7e60cf5445341f2 \
-    go-gpgme:do_install:d95f419eb6733952badb26facd45529e \
-    go-gpgme:do_package:51cb091f30091bce25d0d2668a3f6ea6 \
-    go-gpgme:do_package_qa:268608beea102509c097b38dec15ec81 \
-    go-gpgme:do_package_write_rpm:3075323ce7d9f5fd16c65398d567f3b0 \
-    go-gpgme:do_packagedata:2e6e545088d42920e584c78393dd1ba5 \
-    go-gpgme:do_patch:b39bc30f0caa867bc763aa82ed1010f6 \
-    go-gpgme:do_populate_lic:285dd559197f56cfc2248ed71599cd88 \
-    go-gpgme:do_populate_sysroot:65a77bf5873a5b066b15ff598f583cac \
-    go-gpgme:do_prepare_recipe_sysroot:b0a8457df71f99fa3c8e5661fd12bf38 \
-    go-gpgme:do_unpack:cac26c0747ee35846bd33a240dae687e \
+    go-gpgme:do_build:8c1c50fc09fad0805b220179256b47b5 \
+    go-gpgme:do_compile:c13574e8a7b69a051063a9900fcc8124 \
+    go-gpgme:do_configure:40121a571ddc31d2f52d4f430aabbd72 \
+    go-gpgme:do_fetch:6e4b860a40787ceec12dbe0e081a1950 \
+    go-gpgme:do_install:19605c20989cd2a3114c5cea8a4c038e \
+    go-gpgme:do_package:8fe06b835c43023f38081c4abcb756e8 \
+    go-gpgme:do_package_qa:7e1cdb72c67a672de18362aed29437a1 \
+    go-gpgme:do_package_write_rpm:965d365689a5edd28368233ddb78a2d5 \
+    go-gpgme:do_packagedata:d632e3bd3f2fd22fa8fe004902781fd6 \
+    go-gpgme:do_patch:5d5ec704ae981932a29909a054855014 \
+    go-gpgme:do_populate_lic:46c77286447c1aae1d9859c80b2a2689 \
+    go-gpgme:do_populate_sysroot:61be1697c81057c6d805457ef8d02dfb \
+    go-gpgme:do_prepare_recipe_sysroot:4a7c845458d4fe65a1e097ac201fdd2a \
+    go-gpgme:do_unpack:bd83c790f335b027b4df3f489c8a881b \
     go-libtrust:do_build:9655a5decb68418ee355d98828eb97ee \
     go-libtrust:do_compile:e375c1eddc01283998e1a85d3aba09bd \
     go-libtrust:do_configure:fc263d197f40e148ca366fbe749d20e5 \
@@ -6783,21 +6783,21 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     shared-mime-info:do_populate_sysroot:9b84a207c735fc016182411d758a09fb \
     shared-mime-info:do_prepare_recipe_sysroot:e97f47fb91e864fbe92ab9dbe5091e8f \
     shared-mime-info:do_unpack:8aec809ce90f0decc311ffe71b9a1f41 \
-    skopeo:do_build:3320eded1f9e9c76e68c56f2776feca6 \
-    skopeo:do_compile:ff31a0d7834b44bf8b1bce8a5f5540d4 \
-    skopeo:do_configure:6f916cf1864abb073bda927d0edae786 \
-    skopeo:do_configure_ptest_base:51917834b7085d7a9d132a8967aa79af \
+    skopeo:do_build:39dd18b4ced72da92d5bcd7ea1979d3f \
+    skopeo:do_compile:9591104d85aa995f453f68c83decc837 \
+    skopeo:do_configure:6008838231c4087466538c1d35330d41 \
+    skopeo:do_configure_ptest_base:1e8a97bb037389d791c9993bc1cf6d49 \
     skopeo:do_fetch:e8ab0a4c7fc9cc64bbeecdc2704201c4 \
-    skopeo:do_install:6481557fe8ba456143e2da5d2319e687 \
-    skopeo:do_install_ptest_base:c4800067f971b9191d7575de8ae4952c \
-    skopeo:do_package:c8b4dd0f04ab7041bf37fac40cd4ee6b \
-    skopeo:do_package_qa:1c8a19ddda414bde2cbdbbf72a59e7f5 \
-    skopeo:do_package_write_rpm:3536a2fb2d4f15efd37b16d5c208835f \
-    skopeo:do_packagedata:1bd706ff75cbe1aef6598698af61931b \
+    skopeo:do_install:a0260b9dd826d621c1413e1399d8d403 \
+    skopeo:do_install_ptest_base:bab8885d825fbcf08e33e7cfaf2c0772 \
+    skopeo:do_package:753243de14ceaa53d3a1845479c31f91 \
+    skopeo:do_package_qa:cb843e4574fd3b8d70a44b25a387a014 \
+    skopeo:do_package_write_rpm:1805aed2c4d52e23a7e9a61e0da8e133 \
+    skopeo:do_packagedata:fb7ab53c0c4b85d62395127c028dd54b \
     skopeo:do_patch:a59cdf8e2093826cd3dda7cf8eb0e646 \
     skopeo:do_populate_lic:d2677d8dd9f2232764bf60ea754d72d1 \
-    skopeo:do_populate_sysroot:fc8f0c3cb347c57c01531f166e607c79 \
-    skopeo:do_prepare_recipe_sysroot:5f7a47ae887ce820eb79645b2acc4863 \
+    skopeo:do_populate_sysroot:9d1651c846408d3c49cd6b54c944af4c \
+    skopeo:do_prepare_recipe_sysroot:013eac0c4e675505614435a392d0185b \
     skopeo:do_unpack:3cbc9e96c7cda6e76f59579d0cebd2e4 \
     slang:do_build:65c904823ed89fecebb967f75f560f15 \
     slang:do_compile:80e13f9de084651e227434d1a03e38f5 \
@@ -7332,7 +7332,7 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     udocker:do_populate_sysroot:46b009c4acc9aad42fc5f60fa6abcdd7 \
     udocker:do_prepare_recipe_sysroot:2e8a8a5854fb39e73eac05e274243ed4 \
     udocker:do_unpack:e3955261c0e1658476460881b18626f2 \
-    umoci:do_build:d24093b0c96a487a76658fc4441d778e \
+    umoci:do_build:fc98c2695eb483a85f406f4606e1a657 \
     umoci:do_compile:49caa7d306b99e455d89ea55dfa935c8 \
     umoci:do_compile_ptest_base:872e6eb0e03d89954682b5fb26a1db29 \
     umoci:do_configure:c790bfe5f9330b2db535eb7c3855a789 \
@@ -7341,8 +7341,8 @@ SIGGEN_LOCKEDSIGS_t-core2-64 = "\
     umoci:do_install:b0db6830fdc51cadd58f0b513896c752 \
     umoci:do_install_ptest_base:d57ca96c8913fe23fcfe0cef4eb09c2f \
     umoci:do_package:20c0dd7556ea9d8e228197dfde92e8e8 \
-    umoci:do_package_qa:42c25efdc9b7e8c2b6a03c54934b112d \
-    umoci:do_package_write_rpm:daa0baa50b58d92e5f9238bf3282aa2e \
+    umoci:do_package_qa:e07bc2c5dc439c7fd79d475f6d53c24f \
+    umoci:do_package_write_rpm:d0c127146b948ad678af744cf534fd8d \
     umoci:do_packagedata:867eeff42ca6d48353a83b42a2f16221 \
     umoci:do_patch:af55055a38694f5eb146102a34749a7f \
     umoci:do_populate_lic:6c97b0783c7fc5e587e3b36dea86df68 \
@@ -8574,24 +8574,24 @@ SIGGEN_LOCKEDSIGS_t-genericx86-64 = "\
     cube-desktop:do_rootfs:2a6e79262ad07847de9fc6bbd85e5b74 \
     cube-desktop:do_unpack:f309d63eeff540f45e8a688b5b7dec6c \
     cube-desktop:do_write_qemuboot_conf:1f9012a34df94ba30be5eb572f66b0d0 \
-    cube-dom0:do_build:cdc43b84d7d910e240c059909f1b8539 \
+    cube-dom0:do_build:a90d64a74fe643c3a43c2f41d9977c9c \
     cube-dom0:do_compile:618be6eeeb6c364cadd6d0c7b738e9f1 \
     cube-dom0:do_configure:f17516e3cf0e9010b005561dc3c79a64 \
     cube-dom0:do_fetch:63b546dcf79eb4f6e0ac466c6b17f09c \
-    cube-dom0:do_image:f72c62c40ac7364280ef58298e274852 \
-    cube-dom0:do_image_complete:08c7cf0ae32d824d21af8e1c71ccceb7 \
-    cube-dom0:do_image_qa:50fec83f1ad94adfd172cd9c4430021c \
-    cube-dom0:do_image_tar:de562198b349c3842ae2316653283da1 \
+    cube-dom0:do_image:80c4c94f2ef3b40fa1e56a46a0dfc8be \
+    cube-dom0:do_image_complete:9191aff19f9100f6786ad4f91b92ca85 \
+    cube-dom0:do_image_qa:4a4e46fdd96d24043939e9ae6071d2ef \
+    cube-dom0:do_image_tar:884eef489c0b0a0f85356b35fd1b6067 \
     cube-dom0:do_install:be071e4ad5b82c8924f184807e7e6548 \
     cube-dom0:do_package:8522aef55b5242306a44405f5c1119d7 \
     cube-dom0:do_packagedata:00cd3708601343819c3eec00a44bcd50 \
     cube-dom0:do_patch:6f7a1be50363148a67067563049d38f4 \
     cube-dom0:do_populate_lic:8010bdd28db701124fd9560e11884058 \
-    cube-dom0:do_populate_lic_deploy:c1d5f5bb231be68854cc1786b6db4686 \
+    cube-dom0:do_populate_lic_deploy:1d44cc647dcb38e5a220b9d2563c06d3 \
     cube-dom0:do_prepare_recipe_sysroot:ca3781405127dbb33844cef8afb71130 \
-    cube-dom0:do_rootfs:b2aadfa74b278b5cfbfdcc47876fd4bb \
+    cube-dom0:do_rootfs:87ce7c11a071d07a21b6dce03089d93c \
     cube-dom0:do_unpack:0364c24d47e436d06a6ff357dcee82ae \
-    cube-dom0:do_write_qemuboot_conf:15f46cde392e487cdad997f8b2ac1d15 \
+    cube-dom0:do_write_qemuboot_conf:7691bcb7d30108c882d6494aaa6da809 \
     cube-essential:do_build:729e1e5db9a03c4b2fbdd4e4dc620b84 \
     cube-essential:do_compile:5c1dc7700685090a329cab8de80a5cee \
     cube-essential:do_configure:3a6c639c29694be0ac4ec245987ee17c \
